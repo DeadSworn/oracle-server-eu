@@ -1,0 +1,35 @@
+L 08/05/2017 - 22:18:36: SourceMod error session started
+L 08/05/2017 - 22:18:36: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170805.log")
+L 08/05/2017 - 22:18:36: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/05/2017 - 22:18:36: [SM] Blaming: rules.smx
+L 08/05/2017 - 22:18:36: [SM] Call stack trace:
+L 08/05/2017 - 22:18:36: [SM]   [0] PrintToServer
+L 08/05/2017 - 22:18:36: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/05/2017 - 23:00:18: [SM] Exception reported: Client index 2 is invalid (arg 2)
+L 08/05/2017 - 23:00:18: [SM] Blaming: rules.smx
+L 08/05/2017 - 23:00:18: [SM] Call stack trace:
+L 08/05/2017 - 23:00:18: [SM]   [0] PrintToServer
+L 08/05/2017 - 23:00:18: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/05/2017 - 23:18:41: [SM] Exception reported: Client index 4 is invalid (arg 2)
+L 08/05/2017 - 23:18:41: [SM] Blaming: rules.smx
+L 08/05/2017 - 23:18:41: [SM] Call stack trace:
+L 08/05/2017 - 23:18:41: [SM]   [0] PrintToServer
+L 08/05/2017 - 23:18:41: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/05/2017 - 23:18:42: Error log file session closed.
+L 08/05/2017 - 23:34:39: SourceMod error session started
+L 08/05/2017 - 23:34:39: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170805.log")
+L 08/05/2017 - 23:34:39: [SM] Exception reported: Client index 4 is invalid (arg 2)
+L 08/05/2017 - 23:34:39: [SM] Blaming: rules.smx
+L 08/05/2017 - 23:34:39: [SM] Call stack trace:
+L 08/05/2017 - 23:34:39: [SM]   [0] PrintToServer
+L 08/05/2017 - 23:34:39: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/05/2017 - 23:38:24: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/05/2017 - 23:38:24: [SM] Blaming: rules.smx
+L 08/05/2017 - 23:38:24: [SM] Call stack trace:
+L 08/05/2017 - 23:38:24: [SM]   [0] PrintToServer
+L 08/05/2017 - 23:38:24: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/05/2017 - 23:38:45: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/05/2017 - 23:38:45: [SM] Blaming: rules.smx
+L 08/05/2017 - 23:38:45: [SM] Call stack trace:
+L 08/05/2017 - 23:38:45: [SM]   [0] PrintToServer
+L 08/05/2017 - 23:38:45: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler

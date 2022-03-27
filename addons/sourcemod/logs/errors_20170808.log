@@ -1,0 +1,104 @@
+L 08/08/2017 - 01:48:29: SourceMod error session started
+L 08/08/2017 - 01:48:29: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170808.log")
+L 08/08/2017 - 01:48:29: [SM] Exception reported: Client index 4 is invalid (arg 2)
+L 08/08/2017 - 01:48:29: [SM] Blaming: rules.smx
+L 08/08/2017 - 01:48:29: [SM] Call stack trace:
+L 08/08/2017 - 01:48:29: [SM]   [0] PrintToServer
+L 08/08/2017 - 01:48:29: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/08/2017 - 02:56:12: Error log file session closed.
+L 08/08/2017 - 07:00:34: SourceMod error session started
+L 08/08/2017 - 07:00:34: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170808.log")
+L 08/08/2017 - 07:00:34: [serverhop.smx] Server 46.174.49.21:27240 is down: socket error 6 (errno 111)
+L 08/08/2017 - 10:00:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:01:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:02:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:03:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:04:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:05:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:06:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:07:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:08:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:09:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:10:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:11:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:12:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:13:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:14:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:15:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:16:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:17:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:18:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:19:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:20:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:21:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:22:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:23:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:24:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:25:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:26:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:27:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:28:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:29:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:30:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:31:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:32:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:33:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:34:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:35:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:36:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:37:44: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:38:16: Error log file session closed.
+L 08/08/2017 - 10:38:51: SourceMod error session started
+L 08/08/2017 - 10:38:51: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170808.log")
+L 08/08/2017 - 10:38:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:39:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:40:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:41:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:42:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:43:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:44:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:45:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:46:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:47:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:48:42: [serverhop.smx] Server 46.174.49.21:27240 is down: socket error 6 (errno 111)
+L 08/08/2017 - 10:49:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 10:50:51: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/08/2017 - 11:44:14: Error log file session closed.
+L 08/08/2017 - 14:28:07: SourceMod error session started
+L 08/08/2017 - 14:28:07: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170808.log")
+L 08/08/2017 - 14:28:07: [SM] Exception reported: Client index 4 is invalid (arg 2)
+L 08/08/2017 - 14:28:07: [SM] Blaming: rules.smx
+L 08/08/2017 - 14:28:07: [SM] Call stack trace:
+L 08/08/2017 - 14:28:07: [SM]   [0] PrintToServer
+L 08/08/2017 - 14:28:07: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/08/2017 - 14:48:51: Error log file session closed.
+L 08/08/2017 - 18:51:44: SourceMod error session started
+L 08/08/2017 - 18:51:44: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170808.log")
+L 08/08/2017 - 18:51:44: [SM] Exception reported: Client index 3 is invalid (arg 2)
+L 08/08/2017 - 18:51:44: [SM] Blaming: rules.smx
+L 08/08/2017 - 18:51:44: [SM] Call stack trace:
+L 08/08/2017 - 18:51:44: [SM]   [0] PrintToServer
+L 08/08/2017 - 18:51:44: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/08/2017 - 18:51:46: Error log file session closed.
+L 08/08/2017 - 19:46:34: SourceMod error session started
+L 08/08/2017 - 19:46:34: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170808.log")
+L 08/08/2017 - 19:46:34: [SM] Exception reported: Client index 4 is invalid (arg 2)
+L 08/08/2017 - 19:46:34: [SM] Blaming: rules.smx
+L 08/08/2017 - 19:46:34: [SM] Call stack trace:
+L 08/08/2017 - 19:46:34: [SM]   [0] PrintToServer
+L 08/08/2017 - 19:46:34: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/08/2017 - 20:03:36: [SM] Exception reported: Client index 4 is invalid (arg 2)
+L 08/08/2017 - 20:03:36: [SM] Blaming: rules.smx
+L 08/08/2017 - 20:03:36: [SM] Call stack trace:
+L 08/08/2017 - 20:03:36: [SM]   [0] PrintToServer
+L 08/08/2017 - 20:03:36: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/08/2017 - 20:04:56: Error log file session closed.
+L 08/08/2017 - 20:15:46: SourceMod error session started
+L 08/08/2017 - 20:15:46: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170808.log")
+L 08/08/2017 - 20:15:46: [SM] Exception reported: NULL not allowed
+L 08/08/2017 - 20:15:46: [SM] Blaming: unusual_reborn.smx
+L 08/08/2017 - 20:15:46: [SM] Call stack trace:
+L 08/08/2017 - 20:15:46: [SM]   [0] EquipPlayerWeapon
+L 08/08/2017 - 20:15:46: [SM]   [1] Line 368, D:\sourcemod\unusual_reborn.sp::UpdateWeapon
+L 08/08/2017 - 20:15:46: [SM]   [2] Line 232, D:\sourcemod\unusual_reborn.sp::EventPlayerSpawn
+L 08/08/2017 - 21:05:24: Error log file session closed.

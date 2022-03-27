@@ -1,0 +1,45 @@
+L 08/12/2017 - 00:05:05: SourceMod error session started
+L 08/12/2017 - 00:05:05: Info (map "tfdb_rocketbucks_v2") (file "errors_20170812.log")
+L 08/12/2017 - 00:05:05: [SM] Exception reported: Client index 9 is invalid (arg 2)
+L 08/12/2017 - 00:05:05: [SM] Blaming: rules.smx
+L 08/12/2017 - 00:05:05: [SM] Call stack trace:
+L 08/12/2017 - 00:05:05: [SM]   [0] PrintToServer
+L 08/12/2017 - 00:05:05: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/12/2017 - 00:54:45: Error log file session closed.
+L 08/12/2017 - 01:19:35: SourceMod error session started
+L 08/12/2017 - 01:19:35: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170812.log")
+L 08/12/2017 - 01:19:35: [SM] Exception reported: Client index 3 is invalid (arg 2)
+L 08/12/2017 - 01:19:35: [SM] Blaming: rules.smx
+L 08/12/2017 - 01:19:35: [SM] Call stack trace:
+L 08/12/2017 - 01:19:35: [SM]   [0] PrintToServer
+L 08/12/2017 - 01:19:35: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/12/2017 - 01:55:03: Error log file session closed.
+L 08/12/2017 - 01:55:27: SourceMod error session started
+L 08/12/2017 - 01:55:27: Info (map "tfdb_rocketbucks_v2") (file "errors_20170812.log")
+L 08/12/2017 - 01:55:27: [SM] Exception reported: Client index 5 is invalid (arg 2)
+L 08/12/2017 - 01:55:27: [SM] Blaming: rules.smx
+L 08/12/2017 - 01:55:27: [SM] Call stack trace:
+L 08/12/2017 - 01:55:27: [SM]   [0] PrintToServer
+L 08/12/2017 - 01:55:27: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/12/2017 - 03:03:26: Error log file session closed.
+L 08/12/2017 - 07:00:52: SourceMod error session started
+L 08/12/2017 - 07:00:52: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170812.log")
+L 08/12/2017 - 07:00:52: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/12/2017 - 07:45:37: Error log file session closed.
+L 08/12/2017 - 10:52:05: SourceMod error session started
+L 08/12/2017 - 10:52:05: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170812.log")
+L 08/12/2017 - 10:52:05: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/12/2017 - 10:52:05: [SM] Blaming: rules.smx
+L 08/12/2017 - 10:52:05: [SM] Call stack trace:
+L 08/12/2017 - 10:52:05: [SM]   [0] PrintToServer
+L 08/12/2017 - 10:52:05: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/12/2017 - 10:56:59: Error log file session closed.
+L 08/12/2017 - 11:13:27: SourceMod error session started
+L 08/12/2017 - 11:13:27: Info (map "tfdb_rocketbucks_v2") (file "errors_20170812.log")
+L 08/12/2017 - 11:13:27: [SM] Exception reported: Client index 7 is invalid (arg 2)
+L 08/12/2017 - 11:13:27: [SM] Blaming: rules.smx
+L 08/12/2017 - 11:13:27: [SM] Call stack trace:
+L 08/12/2017 - 11:13:27: [SM]   [0] PrintToServer
+L 08/12/2017 - 11:13:27: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/12/2017 - 11:23:20: [serverhop.smx] Server 46.174.49.21:27240 is down: no timely reply received
+L 08/12/2017 - 11:57:23: Error log file session closed.

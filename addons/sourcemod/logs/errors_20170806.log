@@ -1,0 +1,84 @@
+L 08/06/2017 - 00:33:06: SourceMod error session started
+L 08/06/2017 - 00:33:06: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 00:33:06: Error log file session closed.
+L 08/06/2017 - 03:11:26: SourceMod error session started
+L 08/06/2017 - 03:11:26: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 03:11:26: [SM] Exception reported: Client index 4 is invalid (arg 2)
+L 08/06/2017 - 03:11:26: [SM] Blaming: rules.smx
+L 08/06/2017 - 03:11:26: [SM] Call stack trace:
+L 08/06/2017 - 03:11:26: [SM]   [0] PrintToServer
+L 08/06/2017 - 03:11:26: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 03:35:34: Error log file session closed.
+L 08/06/2017 - 03:50:37: SourceMod error session started
+L 08/06/2017 - 03:50:37: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 03:50:37: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/06/2017 - 03:50:37: [SM] Blaming: rules.smx
+L 08/06/2017 - 03:50:37: [SM] Call stack trace:
+L 08/06/2017 - 03:50:37: [SM]   [0] PrintToServer
+L 08/06/2017 - 03:50:37: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 04:35:50: Error log file session closed.
+L 08/06/2017 - 07:00:20: SourceMod error session started
+L 08/06/2017 - 07:00:20: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 07:00:20: [serverhop.smx] Server 46.174.49.21:27240 is down: socket error 6 (errno 111)
+L 08/06/2017 - 08:58:04: Error log file session closed.
+L 08/06/2017 - 12:52:46: SourceMod error session started
+L 08/06/2017 - 12:52:46: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 12:52:46: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/06/2017 - 12:52:46: [SM] Blaming: rules.smx
+L 08/06/2017 - 12:52:46: [SM] Call stack trace:
+L 08/06/2017 - 12:52:46: [SM]   [0] PrintToServer
+L 08/06/2017 - 12:52:46: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 12:53:25: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/06/2017 - 12:53:25: [SM] Blaming: rules.smx
+L 08/06/2017 - 12:53:25: [SM] Call stack trace:
+L 08/06/2017 - 12:53:25: [SM]   [0] PrintToServer
+L 08/06/2017 - 12:53:25: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 13:27:10: Error log file session closed.
+L 08/06/2017 - 17:16:56: SourceMod error session started
+L 08/06/2017 - 17:16:56: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 17:16:56: [SM] Exception reported: Client index 5 is invalid (arg 2)
+L 08/06/2017 - 17:16:56: [SM] Blaming: rules.smx
+L 08/06/2017 - 17:16:56: [SM] Call stack trace:
+L 08/06/2017 - 17:16:56: [SM]   [0] PrintToServer
+L 08/06/2017 - 17:16:56: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 17:36:08: Error log file session closed.
+L 08/06/2017 - 19:11:27: SourceMod error session started
+L 08/06/2017 - 19:11:27: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 19:11:27: [SM] Exception reported: Client index 6 is invalid (arg 2)
+L 08/06/2017 - 19:11:27: [SM] Blaming: rules.smx
+L 08/06/2017 - 19:11:27: [SM] Call stack trace:
+L 08/06/2017 - 19:11:27: [SM]   [0] PrintToServer
+L 08/06/2017 - 19:11:27: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 19:37:39: Error log file session closed.
+L 08/06/2017 - 20:39:41: SourceMod error session started
+L 08/06/2017 - 20:39:41: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 20:39:41: [SM] Exception reported: Client index 7 is invalid (arg 2)
+L 08/06/2017 - 20:39:41: [SM] Blaming: rules.smx
+L 08/06/2017 - 20:39:41: [SM] Call stack trace:
+L 08/06/2017 - 20:39:41: [SM]   [0] PrintToServer
+L 08/06/2017 - 20:39:41: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 21:39:59: Error log file session closed.
+L 08/06/2017 - 21:40:13: SourceMod error session started
+L 08/06/2017 - 21:40:13: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 21:40:13: [SM] Exception reported: NULL not allowed
+L 08/06/2017 - 21:40:13: [SM] Blaming: unusual_reborn.smx
+L 08/06/2017 - 21:40:13: [SM] Call stack trace:
+L 08/06/2017 - 21:40:13: [SM]   [0] EquipPlayerWeapon
+L 08/06/2017 - 21:40:13: [SM]   [1] Line 368, D:\sourcemod\unusual_reborn.sp::UpdateWeapon
+L 08/06/2017 - 21:40:13: [SM]   [2] Line 232, D:\sourcemod\unusual_reborn.sp::EventPlayerSpawn
+L 08/06/2017 - 22:40:34: Error log file session closed.
+L 08/06/2017 - 22:51:19: SourceMod error session started
+L 08/06/2017 - 22:51:19: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 22:51:19: [SM] Exception reported: Client index 2 is invalid (arg 2)
+L 08/06/2017 - 22:51:19: [SM] Blaming: rules.smx
+L 08/06/2017 - 22:51:19: [SM] Call stack trace:
+L 08/06/2017 - 22:51:19: [SM]   [0] PrintToServer
+L 08/06/2017 - 22:51:19: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler
+L 08/06/2017 - 23:45:19: Error log file session closed.
+L 08/06/2017 - 23:46:21: SourceMod error session started
+L 08/06/2017 - 23:46:21: Info (map "tfdb_octagon_a6_fix_w") (file "errors_20170806.log")
+L 08/06/2017 - 23:46:21: [SM] Exception reported: Client index 1 is invalid (arg 2)
+L 08/06/2017 - 23:46:21: [SM] Blaming: rules.smx
+L 08/06/2017 - 23:46:21: [SM] Call stack trace:
+L 08/06/2017 - 23:46:21: [SM]   [0] PrintToServer
+L 08/06/2017 - 23:46:21: [SM]   [1] Line 145, D:\b\2015\plugin\rules.sp::RulesMenuHandler

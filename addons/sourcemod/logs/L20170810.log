@@ -1,0 +1,167 @@
+L 08/10/2017 - 00:00:30: SourceMod log file session started (file "L20170810.log") (Version "1.9.0.6098")
+L 08/10/2017 - 00:00:30: [basecommands.smx] "Vex<205><[U:1:211725457]><>" changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 00:00:33: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 00:00:34: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 00:00:39: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 00:00:44: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 00:12:55: [basevotes.smx] "Vex<205><[U:1:211725457]><>" initiated a generic vote.
+L 08/10/2017 - 00:28:00: [playercommands.smx] "Vex<205><[U:1:211725457]><>" slapped "Vortiguant<228><[U:1:451342088]><>" (damage "0")
+L 08/10/2017 - 00:30:21: [playercommands.smx] "Vex<205><[U:1:211725457]><>" slapped "ys<223><[U:1:79863257]><>" (damage "0")
+L 08/10/2017 - 00:57:44: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 00:58:04: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_rocketbucks_v2.
+L 08/10/2017 - 01:02:34: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 01:02:35: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 01:02:40: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 01:02:45: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 01:59:40: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 02:03:44: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 02:03:45: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 02:03:50: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 02:03:55: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 03:00:48: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 03:09:14: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 03:09:15: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 03:09:20: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 03:09:25: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 04:06:21: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 04:06:42: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_octagon_a6_fix_w.
+L 08/10/2017 - 04:09:43: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 04:09:44: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 04:09:49: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 04:09:54: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 05:06:53: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 05:14:00: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 05:14:01: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 05:14:06: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 05:14:11: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 06:11:04: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 07:08:28: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 07:08:29: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 07:08:35: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 07:08:40: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 08:05:33: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 10:03:03: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 10:03:04: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 10:03:09: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 10:03:14: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 11:00:08: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 11:00:12: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_octagon_a6_fix_w.
+L 08/10/2017 - 11:09:09: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 11:09:10: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 11:09:15: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 11:09:21: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 12:06:15: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 12:06:36: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_rocketbucks_v2.
+L 08/10/2017 - 12:09:24: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 12:09:25: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 12:09:30: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 12:09:36: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 12:55:18: [playercommands.smx] "Vex<312><[U:1:211725457]><>" slapped "Real Joker<315><[U:1:156594836]><>" (damage "0")
+L 08/10/2017 - 13:06:35: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 13:06:38: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_octagon_a6_fix_w.
+L 08/10/2017 - 13:10:17: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 13:10:19: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 13:10:24: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 13:10:29: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 13:27:45: [playercommands.smx] "meh<320><[U:1:97717735]><>" slapped "Gavinski<310><[U:1:17492433]><>" (damage "0")
+L 08/10/2017 - 13:44:08: [playercommands.smx] "Vex<312><[U:1:211725457]><>" slapped "meh<320><[U:1:97717735]><>" (damage "0")
+L 08/10/2017 - 13:51:22: [basechat.smx] "meh<320><[U:1:97717735]><>" triggered sm_csay (text  1)
+L 08/10/2017 - 13:51:47: [basechat.smx] "Vex<312><[U:1:211725457]><>" triggered sm_say (text  hi)
+L 08/10/2017 - 13:52:27: [basechat.smx] "Vex<312><[U:1:211725457]><>" triggered sm_say (text hi)
+L 08/10/2017 - 13:52:29: [basechat.smx] "Vex<312><[U:1:211725457]><>" triggered sm_psay to "meh<320><[U:1:97717735]><>" (text hi)
+L 08/10/2017 - 13:52:31: [basechat.smx] "Vex<312><[U:1:211725457]><>" triggered sm_csay (text  hi)
+L 08/10/2017 - 14:07:30: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 14:07:44: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_rocketbucks_v2.
+L 08/10/2017 - 14:10:53: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 14:10:55: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 14:11:00: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 14:11:06: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 15:06:00: [basechat.smx] "Vex<351><[U:1:211725457]><>" triggered sm_say (text  1 vs 1 taking place, can all players join spectate please.)
+L 08/10/2017 - 15:06:38: [playercommands.smx] "Vex<351><[U:1:211725457]><>" slayed "[DSI] Deus Paraise [EDP1] blw.t<348><[U:1:102074795]><>"
+L 08/10/2017 - 15:06:40: [playercommands.smx] "Vex<351><[U:1:211725457]><>" slayed "Harry_The_Wizard<346><[U:1:241831528]><>"
+L 08/10/2017 - 15:07:02: [playercommands.smx] "Vex<351><[U:1:211725457]><>" slayed "[DSI] Deus Paraise [EDP1] blw.t<348><[U:1:102074795]><>"
+L 08/10/2017 - 15:07:04: [playercommands.smx] "Vex<351><[U:1:211725457]><>" slayed "Harry_The_Wizard<346><[U:1:241831528]><>"
+L 08/10/2017 - 15:08:05: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 15:08:18: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_octagon_a6_fix_w.
+L 08/10/2017 - 15:11:09: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 15:11:11: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 15:11:16: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 15:11:22: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 16:08:26: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 16:08:46: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_rocketbucks_v2.
+L 08/10/2017 - 16:17:28: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 16:17:30: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 16:17:35: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 16:17:41: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 17:14:39: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 17:14:45: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_octagon_a6_fix_w.
+L 08/10/2017 - 17:17:46: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 17:17:48: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 17:17:53: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 17:17:59: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 17:21:52: [basechat.smx] "Vex<389><[U:1:211725457]><>" triggered sm_psay to "Maester Abo<391><[U:1:106849032]><>" (text te quiero)
+L 08/10/2017 - 17:28:22: [playercommands.smx] "Vex<389><[U:1:211725457]><>" slayed "Maester Abo<391><[U:1:106849032]><>"
+L 08/10/2017 - 17:38:50: [playercommands.smx] "Vex<389><[U:1:211725457]><>" slapped "Maester Abo<391><[U:1:106849032]><>" (damage "0")
+L 08/10/2017 - 17:47:14: [basecomm.smx] "Vex<389><[U:1:211725457]><>" muted "[Ð฿Ƨ]Scott Mcall[₮₡Ł]<390><[U:1:423165706]><>"
+L 08/10/2017 - 17:49:39: [playercommands.smx] "Vex<389><[U:1:211725457]><>" slapped "yuck fou<393><[U:1:426475727]><>" (damage "0")
+L 08/10/2017 - 17:50:57: [basevotes.smx] "Vex<389><[U:1:211725457]><>" initiated a generic vote.
+L 08/10/2017 - 18:15:05: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 18:15:25: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_rocketbucks_v2.
+L 08/10/2017 - 18:18:10: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 18:18:12: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 18:18:17: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 18:18:23: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 18:56:54: [basevotes.smx] "[Ð฿Ƨ] Vex<423><[U:1:211725457]><>" initiated a generic vote.
+L 08/10/2017 - 18:57:02: [basecommands.smx] "[Ð฿Ƨ] Vex<423><[U:1:211725457]><>" changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 18:57:05: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 18:57:07: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 18:57:12: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 18:57:19: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 18:57:28: [playercommands.smx] "[Ð฿Ƨ] Vex<423><[U:1:211725457]><>" slapped "乇ﾑ Smokah<420><[U:1:162079346]><>" (damage "0")
+L 08/10/2017 - 19:08:20: [basevotes.smx] "[Ð฿Ƨ] Vex<452><[U:1:211725457]><>" initiated a generic vote.
+L 08/10/2017 - 19:24:30: [basevotes.smx] "[Ð฿Ƨ] Vex<459><[U:1:211725457]><>" initiated a generic vote.
+L 08/10/2017 - 19:24:53: [basecommands.smx] "[Ð฿Ƨ] Vex<459><[U:1:211725457]><>" changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 19:24:56: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 19:24:58: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 19:25:03: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 19:25:10: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 19:32:09: [basechat.smx] "[Ð฿Ƨ] Vex<459><[U:1:211725457]><>" triggered sm_csay (text Starting next round...)
+L 08/10/2017 - 19:33:26: [basechat.smx] "[Ð฿Ƨ] Vex<459><[U:1:211725457]><>" triggered sm_csay (text START)
+L 08/10/2017 - 20:24:49: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 20:25:10: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_rocketbucks_v2.
+L 08/10/2017 - 20:25:40: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 20:25:42: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 20:25:47: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 20:25:53: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/10/2017 - 21:22:55: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 21:23:15: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_octagon_a6_fix_w.
+L 08/10/2017 - 21:26:23: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 21:26:25: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 21:26:30: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 21:26:36: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 22:20:36: [playercommands.smx] "Hinn.<499><[U:1:79974463]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "0")
+L 08/10/2017 - 22:20:36: [playercommands.smx] "Hinn.<499><[U:1:79974463]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "0")
+L 08/10/2017 - 22:20:38: [playercommands.smx] "Hinn.<499><[U:1:79974463]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "0")
+L 08/10/2017 - 22:20:38: [playercommands.smx] "Hinn.<499><[U:1:79974463]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "0")
+L 08/10/2017 - 22:20:39: [playercommands.smx] "Hinn.<499><[U:1:79974463]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "0")
+L 08/10/2017 - 22:20:40: [playercommands.smx] "Hinn.<499><[U:1:79974463]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "0")
+L 08/10/2017 - 22:20:40: [playercommands.smx] "Hinn.<499><[U:1:79974463]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "0")
+L 08/10/2017 - 22:20:50: [playercommands.smx] "Vex<497><[U:1:211725457]><>" renamed "Hinn.<499><[U:1:79974463]><>" to "Dickhead.")
+L 08/10/2017 - 22:21:40: [playercommands.smx] "Vex<497><[U:1:211725457]><>" slapped "Dickhead.<499><[U:1:79974463]><>" (damage "1")
+L 08/10/2017 - 22:21:42: [playercommands.smx] "Vex<497><[U:1:211725457]><>" slapped "Dickhead.<499><[U:1:79974463]><>" (damage "3")
+L 08/10/2017 - 22:21:46: [playercommands.smx] "Vex<497><[U:1:211725457]><>" slapped "Dickhead.<499><[U:1:79974463]><>" (damage "1")
+L 08/10/2017 - 22:22:04: [playercommands.smx] "Vex<497><[U:1:211725457]><>" slapped "Vex<497><[U:1:211725457]><>" (damage "175")
+L 08/10/2017 - 22:23:37: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 22:23:40: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_rocketbucks_v2.
+L 08/10/2017 - 22:25:13: [playercommands.smx] "Vex<497><[U:1:211725457]><>" slapped "Dickhead.<499><[U:1:79974463]><>" (damage "0")
+L 08/10/2017 - 22:25:38: [playercommands.smx] "Console<0><Console><Console>" renamed "Vex<497><[U:1:211725457]><>" to "Brainless Cocksucker")
+L 08/10/2017 - 22:27:28: [SM] Changed map to "tfdb_rocketbucks_v2"
+L 08/10/2017 - 22:27:31: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 08/10/2017 - 22:27:36: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 22:27:42: [randomcycle.smx] RandomCycle has chosen tfdb_rocketbucks_v2 for the nextmap.
+L 08/10/2017 - 23:24:44: [mapchooser.smx] Voting for next map has started.
+L 08/10/2017 - 23:24:58: [mapchooser.smx] Voting for next map has finished. Nextmap: tfdb_octagon_a6_fix_w.
+L 08/10/2017 - 23:28:10: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/10/2017 - 23:28:13: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/10/2017 - 23:28:18: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/10/2017 - 23:28:25: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.

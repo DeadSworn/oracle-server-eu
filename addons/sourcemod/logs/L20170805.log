@@ -1,0 +1,29 @@
+L 08/05/2017 - 21:26:00: [basechat.smx] "Vex<130><[U:1:211725457]><>" triggered sm_psay to "Sentinel<133><[U:1:50397068]><>" (text hi)
+L 08/05/2017 - 21:26:18: [basechat.smx] "Vex<130><[U:1:211725457]><>" triggered sm_psay to "Sentinel<133><[U:1:50397068]><>" (text @ in teamchat)
+L 08/05/2017 - 21:26:26: [basechat.smx] "Sentinel<133><[U:1:50397068]><>" triggered sm_chat (text no)
+L 08/05/2017 - 21:26:40: [basechat.smx] "Vex<130><[U:1:211725457]><>" triggered sm_psay to "Sentinel<133><[U:1:50397068]><>" (text is shad a girl?)
+L 08/05/2017 - 21:26:55: [basechat.smx] "Sentinel<133><[U:1:50397068]><>" triggered sm_chat (text a very sweet loli, yes)
+L 08/05/2017 - 21:33:37: [playercommands.smx] "Vex<130><[U:1:211725457]><>" slayed "TheOneAbove✯<132><[U:1:149598660]><>"
+L 08/05/2017 - 21:37:38: [basechat.smx] "Vex<130><[U:1:211725457]><>" triggered sm_chat (text  They look great Ajax, thanks!)
+L 08/05/2017 - 21:39:57: [basecomm.smx] "Vex<130><[U:1:211725457]><>" gagged "Sentinel<133><[U:1:50397068]><>"
+L 08/05/2017 - 21:40:26: [basechat.smx] "Sentinel<133><[U:1:50397068]><>" triggered sm_chat (text u suck)
+L 08/05/2017 - 21:40:48: [basecomm.smx] "Ajax<139><[U:1:430709293]><>" ungagged "Sentinel<133><[U:1:50397068]><>"
+L 08/05/2017 - 21:47:15: [basecomm.smx] "Ajax<139><[U:1:430709293]><>" muted "Aboody<142><[U:1:239887351]><>"
+L 08/05/2017 - 22:05:53: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 08/05/2017 - 22:06:04: Log file closed.
+L 08/05/2017 - 22:16:10: SourceMod log file session started (file "L20170805.log") (Version "1.9.0.6098")
+L 08/05/2017 - 22:16:10: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/05/2017 - 22:16:10: [TF2ITEMS] "GiveNamedItem" offset = 481
+L 08/05/2017 - 22:16:10: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 08/05/2017 - 22:16:10: [aimnames.smx] [AN] Client Preferences extension is loaded, checking database.
+L 08/05/2017 - 22:16:10: [aimnames.smx] [AN] Database config 'clientprefs' was found.
+L 08/05/2017 - 22:16:10: [aimnames.smx] [AN] Plugin will use Client Preferences.
+L 08/05/2017 - 22:16:16: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/05/2017 - 22:16:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_blind") (value "1")
+L 08/05/2017 - 22:16:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_flamethrower_burstammo") (value "0")
+L 08/05/2017 - 22:16:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_avoidteammates_pushaway") (value "0")
+L 08/05/2017 - 22:16:22: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.
+L 08/05/2017 - 23:18:41: [SM] Changed map to "tfdb_octagon_a6_fix_w"
+L 08/05/2017 - 23:18:42: -------- Mapchange to tfdb_octagon_a6_fix_w --------
+L 08/05/2017 - 23:18:49: [unusual_reborn.smx] Unusual effects permissions loaded !
+L 08/05/2017 - 23:18:54: [randomcycle.smx] RandomCycle has chosen tfdb_octagon_a6_fix_w for the nextmap.

@@ -1,0 +1,43 @@
+﻿"Phrases"
+{
+	"Sent1"
+	{
+		"en"		"{Purple}[Unusual] {default} You don't have access to this command !"
+		"fr"		"{Purple}[Unusual] {default} Vous n'avez pas access a cette commande !"
+	}
+	"Sent2"
+	{
+		"en"		"{Purple}[Unusual] {default} You must be in red or blue team for use this function !"
+		"fr"		"{Purple}[Unusual] {default} Vous devez etre dans l'equipe Red ou Blue pour utiliser cette fonction !"
+	}
+	"Sent3"
+	{
+		"en"		"{Purple}[Unusual] {default} You don't have Unusual effect !"
+		"fr"		"{Purple}[Unusual] {default} Vous n'avez pas d'effet inhabituel"
+	}
+	"Sent4"
+	{
+		"en"		"{purple}[Unusual] {default} Effect deleted !"
+		"fr"		"{purple}[Unusual] {default} Effet suprime !"
+	}
+	"Sent5"
+	{
+		"en"		"{purple}[Unusual] {default} Can't find entry !"
+		"fr"		"{purple}[Unusual] {default} Aucune entree trouve !"
+	}
+	"Sent6"
+	{
+		"en"		"{Purple}[Unusual] {default} Your Unusual Effects peridode is finished, you lost all your effects !"
+		"fr"		"{Purple}[Unusual] {default} Votre periode d'efffets inhabituels est terminee, tu as perdu tous tes effets !"
+	}
+	"Sent7"
+	{
+		"en"		"{Purple}[Unusual] {default} You can't add more unusuals effects !"
+		"fr"		"{Purple}[Unusual] {default} Vous ne pouvez pas ajouter plus d'effets inhabituels !"
+	}
+	"Sent8"
+	{
+		"en"		"{Purple}[Unusual] {default} New effect added !"
+		"fr"		"{Purple}[Unusual] {default} Nouvel effets ajoute !"
+	}
+}

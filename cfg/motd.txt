@@ -1,0 +1,54 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<title>MOTD</title>
+		<style type="text/css">
+html, body {
+				height: 100%;
+				margin: 0;
+				padding: 0;
+                                overflow: hidden;
+			}
+			img#bg {
+				position:fixed;
+				top:0;
+				left:0;
+				width:100%;
+				height:100%;
+			}
+			#content {
+				top:0%;
+				width:100%;
+				position:relative;
+                margin:0 auto;
+			}		</style>
+	</head>
+	<body>
+		<p>
+			<img id="bg" src="http://content.specialattack.net/blackboard.png"></p>
+		<div align="center" id="content">
+			<p style="color: red; text-align: center;">
+				<span style="font-size:14px;"><span style="color: rgb(0, 255, 0);">!menu</span> <span style="color:#000000;">-</span> <span style="color:#ffff00;">Name color, color chat, unusual effects.</span></span></p>
+			<p>
+				<span style="color:#00ff00;">!tp</span> <span style="color:#ffff00;">and </span><span style="color:#00ff00;">!fp</span> -<span style="color:#ffff00;"> <span style="font-size: 14px;">third-person, first-person view.</span></span></p>
+			<p>
+				<span style="color:#00ff00;">!rank</span> <span style="color:#ffff00;">and </span><span style="color:#00ff00;">rank </span>- <span style="color:#ffff00;"><span class="short_text" id="result_box" lang="en"><span class="hps">your Rank.</span></span></span></p>
+			<p>
+				<span style="color:#00ff00;">top </span><span style="color:#ffff00;">and </span><span style="color:#00ff00;">top10 </span>-<span style="color:#ffff00;"> Top players.</span></p>
+			<p>
+				<span style="color:#00ff00;">!votepvb</span> -&nbsp; <span style="color:#ffff00;">Enable/Disable mode player vs bot.</span></p>
+			<p>
+				<span style="color:#00ff00;">rtd</span> - <span style="color:#ffff00;">random effects.</span></p>
+			<p>
+				<span style="color:#ff0000;">RU</span>: <span style="color:#ffff00;">Если вы нашли баги или хотите помочь проекту информацией.</span></p>
+			<p>
+				<span style="color:#ff0000;">EN</span>: <span style="color:#ffff00;"><span id="result_box" lang="en"><span class="hps">If you find</span> <span class="hps">bugs</span> <span class="hps">or want to help</span> <span class="hps">the project</span> <span class="hps">information.</span></span></span></p>
+			<p>
+				<span style="color:#ff0000;">skype </span>: <span style="color:#ffff00;">nyb4ik1</span></p>
+			<p>
+				&nbsp;</p>
+		</div>
+		<p>
+			&nbsp;</p>
+	</body>
+</html>
